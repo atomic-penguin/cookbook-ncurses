@@ -1,4 +1,4 @@
-# ncurses
+# ncurses [![Build Status](https://secure.travis-ci.org/atomic-penguin/cookbook-ncurses.png?branch=master)](http://travis-ci.org/atomic-penguin/cookbook-ncurses)
 
 ## Description
 
