@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 case node['platform']
-when "redhat","centos","scientific","amazon","oracle"
+when "redhat","centos","scientific","amazon","oracle","fedora"
   default['ncurses']['packages'] = %w{ ncurses ncurses-devel }
 when "debian","ubuntu"
   default['ncurses']['packages'] = %w{ libncurses5 libncurses5-dev }
